@@ -3,7 +3,7 @@ I am an enthusiastic Full-stack Developer with a primary focus on PHP and JavaSc
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ saeedazxd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-azizi-7a39b32b0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SaeedAzXD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saeed.azizi.2008@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/ saeedazxd](https://www.instagram.com/saeedazxd/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-azizi-7a39b32b0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SaeedAzXD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saeed.azizi.2008@gmail.com) 
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
